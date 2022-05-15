@@ -82,7 +82,7 @@ make install
 Built files are at /home/cogroid/local/libgmp/i386
 ```
 
-### Build for armv7-a machine
+### Build for armv7 machine
 
 Set APP_PKG to package name of your android app.
 
